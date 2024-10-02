@@ -15,11 +15,11 @@ redirect_from:
 In January 2020 I started as a Research Scientist at Simula Research
 Laboratory in the department for Scientific Computing. In relation to me starting at Simula we also established the bioAI group of which I am the group leader.
 
-Before I started as a Research Scientist I was a Postdoc at the department of physics at the University of Oslo. During my postdoc we started the bioAI group
+Before I started as a Research Scientist I was a Postdoc at the department of physics at the University of Oslo (UiO), Norway. During my postdoc we started the bioAI group
 
-I graduated in 2014 after finishing a master degree in Applied Mathematics at NMBU in Ås. 
+I have a PhD in Neuroscience from UiO and a Master's degree in Applied Mathematics at the Norwegian University of Life sciences. 
 
-My fields of interests are computational neuroscience, biologically inspired artificial intelligence, and causal inference. 
+My fields of interests are neuroscience, biologically inspired artificial intelligence, and causal inference. 
 
 ## **Personal Information**
 
