@@ -298,6 +298,27 @@ My fields of interests are computational neuroscience, biologically inspired art
 
 ---
 
+# **Other Qualifications and Activities**
+
+## **Invited Speaker**
+
+- **AI Week OsloMet 2023**
+- **Keynote Speaker:** Young Researchers in NeuroAI Conference, NMBU 2023
+- **INC Chalk Talk**, University of San Diego, USA
+- **NRSN Conference 2021** - Seminar on Bio-Inspired Computing
+
+## **Media Appearances and Publications**
+
+- **Interviewed by Titan.uio.no**, cross-posted on digi.no:
+  - ["Hjerneforskning vil gi oss bedre kunstig intelligens"](https://www.digi.no/artikler/hjerneforskning-vil-gi-oss-bedre-kunstig-intelligens/540859)
+- **Guest on the Jøss Podcast** (appeared twice, ~4,000 monthly listeners)
+- **Authored Opinion Editorial on Ethics in AI**:
+  - ["Debatt: Norge som fanebærer for etikk i en uforutsigbar framtid"](https://www.digi.no/artikler/debatt-norge-som-fanebaerer-for-etikk-i-en-uforutsigbar-framtid/541427)
+- **Interviewed by NRK** for a news article about optogenetics as a treatment option for major depression:
+  - ["Laseren som kan løse depresjonsgåten"](https://www.nrk.no/dokumentar/xl/laseren-som-kan-lose-depresjonsgaten-1.13586886)
+
+  ---
+
 # **References**
 
 _For more information, please visit my [Simula Research Laboratory Profile](https://www.simula.no/people/mikkel) or my [Google Scholar](https://scholar.google.no/citations?user=QSYCR88AAAAJ&hl=en#) page._
