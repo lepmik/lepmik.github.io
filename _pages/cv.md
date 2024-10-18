@@ -53,25 +53,21 @@ My fields of interests are neuroscience, biologically inspired artificial intell
 ---
 
 ## **Positions - Current and Previous**
+- **2022 – Present**
+  - **Research Scientist (equivalent to Assistant Professor)**
+    - **Institution:** Department of Numerical Analysis and Scientific Computing (SCAN), Simula Research Laboratory (Simula), Norway
 
 - **2023 – Present**
   - **Adjunct Associate Professor (20%)**
-    - **Department:** Physics
-    - **Institution:** University of Oslo, Norway
-
-- **2022 – Present**
-  - **Research Scientist (equivalent to Assistant Professor)**
-    - **Employer:** Simula Research Laboratory (Simula), Norway
+    - **Institution:** Department of Physics, University of Oslo, Norway
 
 - **2022 – 2023**
   - **Researcher (20%)**
-    - **Department:** Physics
-    - **Institution:** University of Oslo, Norway
+    - **Institution:** Department of Physics, University of Oslo, Norway, Department of Physics
 
 - **2020 – 2022**
   - **Postdoctoral Fellow**
-    - **Department:** Biosciences
-    - **Institution:** University of Oslo, Norway
+    - **Institution:** Department of Biosciences, University of Oslo, Norway
 
 ---
 
@@ -302,14 +298,17 @@ My fields of interests are neuroscience, biologically inspired artificial intell
 
 ## **Invited Speaker**
 
-- **AI Week OsloMet 2023**
+- **Causality lecture, Honours program**, University of Oslo, 2024
+- **AI Week**, OsloMet 2023
 - **Keynote Speaker:** Young Researchers in NeuroAI Conference, NMBU 2023
-- **INC Chalk Talk**, University of San Diego, USA
+- [**INC Chalk Talk**](https://www.youtube.com/watch?v=C8kSq5DAhao&list=PLcWOreDEmLorZ9RZoFkUPdze2ndCdiOyt&index=41), University of San Diego, USA
 - **NRSN Conference 2021** - Seminar on Bio-Inspired Computing
 
 ## **Media Appearances and Publications**
 
-- **Interviewed by Titan.uio.no**, cross-posted on digi.no:
+- **Brain inspired podast**, [Episode 1](https://braininspired.co/podcast/195/), [Episode 2](https://braininspired.co/podcast/196/)
+- **Theoretical Neuroscience podcast**, [Episode 1](https://theoreticalneuroscience.no/thn19/), [Episode 2](https://theoreticalneuroscience.no/thn20/) (shared publication with brain inspired podcast above)
+- [**Interviewed by Titan.uio.no**](https://www.titan.uio.no/livsvitenskap/2023/hvordan-holder-hjernen-holder-orden-hvor-du-er-bedre-KI.html), [cross-posted on digi.no](https://www.digi.no/artikler/hjerneforskning-vil-gi-oss-bedre-kunstig-intelligens/540859), 2023
   - ["Hjerneforskning vil gi oss bedre kunstig intelligens"](https://www.digi.no/artikler/hjerneforskning-vil-gi-oss-bedre-kunstig-intelligens/540859)
 - **Guest on the Jøss Podcast** (appeared twice, ~4,000 monthly listeners)
 - **Authored Opinion Editorial on Ethics in AI**:
