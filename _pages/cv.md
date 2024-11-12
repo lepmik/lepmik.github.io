@@ -89,7 +89,7 @@ Stefan Leutgeb's Lab, University of California San Diego
 **Visiting Researcher** _(2016)_  
 Marc de Kamps' Lab, University of Leeds
 - 1-month intensive collaboration on density methods for neural networks
-- Resulted in two joint publications
+- Resulted in two joint publications and one book chapter
 
 **Career Breaks**
 - Parental leave: 2017, 2020 (5 months each)
@@ -100,7 +100,7 @@ Marc de Kamps' Lab, University of Leeds
 - **2023-Present**: Co-established NeuroAI as strategic focus area in Norway
 - **2022**: Founded bioAI research group at Simula
 - **2020-Present**: Built and leads team of 10 PhD students and 1 postdoc
-- **2019-Present**: Secured and manages multiple research grants
+- **2019-Present**: Secured and co-manages first research grant
 
 ## Project Management
 
