@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Mikkel Elle Lepperød, Ph.D."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-# Mikkel Elle Lepperød, Ph.D.
 Research Scientist, Simula Research Laboratory  
 Group Leader, [bioAI Research Group](https://bioai-oslo.github.io)  
 - **Date of Birth:** 14.09.1985
@@ -23,13 +21,13 @@ Group Leader, [bioAI Research Group](https://bioai-oslo.github.io)
 
 ---
 
-## Professional Summary
+# Professional Summary
 
 Dr. Mikkel Elle Lepperød is a Research Scientist at Simula Research Laboratory and founder of the bioAI research group. With expertise spanning computational neuroscience, artificial intelligence, and causal inference, he leads interdisciplinary research initiatives bridging natural and artificial intelligence. His work combines rigorous mathematical modeling with experimental neuroscience to advance our understanding of neural computation and develop bio-inspired AI systems.
 
 As Principal Investigator of multiple research projects and supervisor of a growing research team, Dr. Lepperød has established himself as a leader in the emerging field of NeuroAI. His research program encompasses theoretical neuroscience, machine learning, and causality, with particular emphasis on understanding spatial navigation and learning in biological systems.
 
-## Core Competencies
+# Core Competencies
 - Neural Circuit Analysis
 - Biologically-Inspired AI
 - Causal Inference Methods
@@ -39,9 +37,9 @@ As Principal Investigator of multiple research projects and supervisor of a grow
 
 ---
 
-## Education & Career Progression
+# Education & Career Progression
 
-### Current Positions
+## Current Positions
 **Research Scientist & Group Leader** _(2022 – Present)_  
 Department of Numerical Analysis and Scientific Computing, Simula Research Laboratory
 - Founded and leads the bioAI research group
@@ -53,7 +51,7 @@ Department of Physics, University of Oslo
 - 20% position focusing on NeuroAI research and education
 - Bridges academic research between Simula and UiO
 
-### Previous Positions
+## Previous Positions
 
 **Researcher** _(2022 – 2023)_  
 Department of Physics, University of Oslo
@@ -68,7 +66,7 @@ Department of Biosciences, University of Oslo
 **Research Assistant** _(2014 – 2015)_  
 Department of Biosciences, University of Oslo
 
-### Education
+## Education
 
 **Ph.D. in Neuroscience** _(2020)_  
 University of Oslo, Norway
@@ -82,7 +80,7 @@ Norwegian University of Life Sciences, Norway
 - Combined mathematical modeling with neural systems
 - Supervisors: John Wyller, Bjørn Fredrik Nielsen
 
-### Mobility
+## Mobility
 **Visiting Researcher** _(2017/2018)_  
 Stefan Leutgeb's Lab, University of California San Diego
 - 6-month research stay focusing on experimental methods for spatial navigation
@@ -97,14 +95,14 @@ Marc de Kamps' Lab, University of Leeds
 - Parental leave: 2017, 2020 (5 months each)
 
 ---
-## Research Impact & Leadership
-### Research Leadership Trajectory
+# Research Impact & Leadership
+## Research Leadership Trajectory
 - **2023-Present**: Co-established NeuroAI as strategic focus area in Norway
 - **2022**: Founded bioAI research group at Simula
 - **2020-Present**: Built and leads team of 10 PhD students and 1 postdoc
 - **2019-Present**: Secured and manages multiple research grants
 
-### Project Management
+## Project Management
 
 **bioAI Research Program** _(2020 – Present)_  
 Principal Investigator, Simula Research Laboratory
@@ -125,13 +123,13 @@ Acting Co-Principal Investigator, University of Oslo
 - Established NeuroAI as strategic research priority
 - Created national network of researchers
 
-### Teaching
+## Teaching
 - **Causality lecture**, Honours program, University of Oslo, _(2024)_
 - **Summer School in Computational Physiology**, University of Oslo and University of California San Diego , _(2023, 2024)_
 - **Scientific Computing and Programming in Biosciences**, University of Oslo, _(2015-2020)_
   - Developed teaching material and held lectures in multiple courses
 
-### Research Group Leadership
+## Research Group Leadership
 **bioAI Group, Simula Research Laboratory** _(2020 – Present)_
 Leading a dynamic research group focusing on bio-inspired AI and computational neuroscience:
 - Founded and leads research group
@@ -139,12 +137,12 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 - Established research vision and strategic objectives
 
 
-#### **Postdoctoral Researchers**
+### **Postdoctoral Researchers**
 
 - Sidney Pontes-Filho _(2022 - 2025)_, Simula Research Laboratory, Norway
 
-#### **PhD Students**
-##### **Main Supervision**
+### **PhD Students**
+#### **Main Supervision**
 **Finished**
 - Vemund Schøyen _(2020 – 2024)_, University of Oslo, Norway
 
@@ -155,13 +153,13 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 - Konstantin Holzhausen _(2021 – 2024)_, University of Oslo, Norway
 - Priya Tarigopula _(2021 – 2024)_, University of Oslo, Norway
 
-##### **Co Supervision**
+#### **Co Supervision**
 - Krubeal Danieli _(2022 - 2025)_, University of Oslo, Norway
 - Frederik Rogge _(2021 – 2024)_, University of Oslo, Norway
 - Mateusz Wasiluk _(2021 – 2024)_, University of Oslo, Norway
 - Maria Fjelstad _(2019 – 2024)_, University of Oslo, Norway
 
-#### **Supervision of Master's Students**
+### **Supervision of Master's Students**
 - Janita Willumsen, Mia Merlid _(Ongoing)_, University of Oslo, Norway
 - Vilde Ung* _(2024)_, University of Oslo, Norway
 - Håkon Olav Torvik, Sara Jensen*, Herman Brunborg* _(2023)_, University of Oslo, Norway
@@ -174,7 +172,7 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 |-------|------|---------|-------------|---------------|
 | **Postdoctoral** | Sidney Pontes-Filho | 2022 - 2025 | Simula Research Laboratory | Bio-inspired AI |
 
-#### PhD Students
+### PhD Students
 
 | Supervision | Status | Name | Period | Institution | Research Area |
 |--------|--------|------|---------|-------------|---------------|
@@ -189,7 +187,7 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 | Co | Ongoing | Mateusz Wasiluk | 2021 – 2024 | University of Oslo | Continual Learning |
 | Co | Ongoing | Maria Fjelstad | 2019 – 2024 | University of Oslo | Neuroscience |
 
-#### Master's Students
+### Master's Students
 
 | Year | Students | Institution | 
 |------|----------|-------------|
@@ -202,7 +200,7 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 \* *Indicates student who continued to PhD program*
 
 
-#### **Research Internship Program**
+### **Research Internship Program**
 
 - Managed extensive internship program:
   - Funded by Center for Computing in Science Education, Univeristy of Oslo, Norway
@@ -211,7 +209,7 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
     - 3 published papers with intern co-authors
     - Created pipeline for identifying research talent
 
-### Strategic Leadership
+## Strategic Leadership
 **AI Strategy Development** _(2024)_
 - Selected member of Simula's AI Task Force
 - Contributing to establishment of Simula-wide AI strategy
@@ -225,9 +223,9 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
   - Building networks between academic and industry partners
   - Part of core writing group for grant application for national neuroAI research center 
 ---
-## Professional Service
+# Professional Service
 
-### Editorial Roles
+## Editorial Roles
 **Frontiers in Computational Neuroscience**
 - Guest Editor, Frontiers in Computational Neuroscience, Research Topic: [Towards bio-inspired machine learning](https://www.frontiersin.org/research-topics/64497/towards-bio-inspired-machine-learning) _(2024)_
 - Review Editor, Frontiers in Computational Neuroscience and Computational Physiology sections _(2022 - Present)_
@@ -235,7 +233,7 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 **Journal Reviewer**
 ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Biology, eNeuro, Neural Computing and Applications
 
-### Workshop & Conference Organization
+## Workshop & Conference Organization
 
 **2024 Events**
 - **Lead Organizer:** NeuroAI Workshop, Hurtigruten
@@ -272,7 +270,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
   - 30 participants
   - University of Oslo
 
-### Leadership Development
+## Leadership Development
 
 **2022 Executive Education**
 - Completed "High-Potential Leaders" program at Wharton
@@ -282,7 +280,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 
 ---
 
-## **Other Relevant Professional Experiences**
+# **Other Relevant Professional Experiences**
 - **Invited Software Developer:** NWB hackathon days at Howard Hughes Medical Institute _(2018)_
   - Started development of a backend for storing data using Exdir, software co-developed
 - **Software Developer:** NEST version 2.12.0 and 2.16.0, part of the Human Brain Project for simulating large-scale neural networks  _(2017)_
@@ -293,7 +291,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 
 ---
 
-## **Memberships / Networks**
+# **Memberships / Networks**
 
 - Special Interest Group for NeuroAI Norway, aiming to establish NeuroAI as a prospering research field in Norway _(2023 - Present)_
     - **Website:** [NORA SIG NeuroAI](https://www.nora.ai/nora-sig/NeuroAI/)
@@ -303,7 +301,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 
 ---
 
-## **Major Collaborations**
+# **Major Collaborations**
 
 - Deep learning for drug discovery using heart-on-a-chip technology _(2023 – Present)_
   - **Collaborator:** Prof. Aslak Tveito, Research Prof. Samuel Wall, Research Prof. Andy Edwards
@@ -330,9 +328,9 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 
 ---
 
-### Technical Expertise
+## Technical Expertise
 
-#### Core Technical Skills
+### Core Technical Skills
 
 | Domain | Advanced | Intermediate | Working Knowledge |
 |--------|-----------|--------------|-------------------|
@@ -340,21 +338,21 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 | **Scientific Computing** | Statistical Analysis, Neural Data Processing, Causal Inference, Machine Learning, Deep Learning | Signal Processing, High-Performance Computing | Cloud Computing |
 | **Development Tools** | LaTeX, Bash, Git, Jupyter, Linux | CI/CD, Testing Frameworks, Documentation Tools, Docker | AWS |
 
-#### Notable Technical Achievements
+### Notable Technical Achievements
 
-##### Data Management & Analysis
+#### Data Management & Analysis
 - Co-developed Exdir and Expipe data format for neuroscience
 - Built custom analysis pipelines for neural data processing
 - Core Contributor NEST Neural Simulator in versions 2.12.0 and 2.16.0
 - Developer for MIND Neural Population Simulator
 
-##### Data Science & AI
+#### Data Science & AI
 - Co-developed custom implementations of neural network architectures
 - Created analysis tools for spatial navigation data
 - Causal modeling and inference systems
 - Built real-time experimental control and data acquisition systems
 
-#### Technical Leadership
+### Technical Leadership
 - Established coding standards and best practices for research groups
 - Led technical workshops on scientific computing
 - Managed collaborative development across international teams
@@ -362,7 +360,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 
 ---
 
-### Scholarships and Awards
+## Scholarships and Awards
 - Research exchange scholarship to University of California San Diego (UCSD)
   - Given by the Research council of Norway
   - Visited the [Leutgeb lab](https://www.leutgeblabs.com/)
@@ -371,9 +369,9 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
   - Given to exchange students in Europe.
 
 ---
-## Public Engagement & Outreach
+# Public Engagement & Outreach
 
-### Media Appearances
+## Media Appearances
 - Brain inspired podast _(2024)_
   - [Episode 1](https://braininspired.co/podcast/195/), [Episode 2](https://braininspired.co/podcast/196/)
 - Theoretical Neuroscience podcast _(2024)_
@@ -385,7 +383,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
   - ["Laseren som kan løse depresjonsgåten"](https://www.nrk.no/dokumentar/xl/laseren-som-kan-lose-depresjonsgaten-1.13586886)
 - **Guest on the Jøss Podcast** (appeared twice, ~4,000 monthly listeners)
 
-### Public Writing
+## Public Writing
 - Summarized NeuroAI workshop on Hurtigruten _(2024)_
   - [Navigating the Future of NeuroAI](https://www.mn.uio.no/ccse/english/about/news-and-events/news/navigating-the-future-of-neuroai.html)
 - Co-authored opinion editorial on AI ethics _(2023)_
@@ -394,7 +392,7 @@ ICLR, Nature Communications, Nature Machine Intelligence, PLOS Computational Bio
 - Accessible research output on social media (Twitter/X, LinkedIn, BlueSky)
 
 
-### Invited Speaking Engagements
+## Invited Speaking Engagements
 - **NeuroAI workshop** _(2024)_
 - **AI Week**, OsloMet _(2023)_
 - **Keynote Speaker:** Young Researchers in NeuroAI Conference, NMBU _(2023)_
