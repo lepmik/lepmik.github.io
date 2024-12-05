@@ -219,7 +219,6 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 - Co-established NeuroAI as national priority 
   - Led collaboration initiative between Norwegian Ministry of Education and Research and US Department of Energy
   - Board Member, Special Interest Group for NeuroAI Norway (NORA)
-  - Driving national strategy for NeuroAI research
   - Building networks between academic and industry partners
   - Part of core writing group for grant application for national neuroAI research center 
 
