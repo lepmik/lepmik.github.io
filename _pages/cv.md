@@ -161,9 +161,9 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
 
 ### **Supervision of Master's Students**
 - Janita Willumsen, Mia Merlid _(Ongoing)_, University of Oslo, Norway
-- Vilde Ung* _(2024)_, University of Oslo, Norway
-- Håkon Olav Torvik, Sara Jensen*, Herman Brunborg* _(2023)_, University of Oslo, Norway
-- Markus Pettersen* _(2022)_, University of Oslo, Norway
+- Vilde Ung\* _(2024)_, University of Oslo, Norway
+- Håkon Olav Torvik, Sara Jensen\*, Herman Brunborg\* _(2023)_, University of Oslo, Norway
+- Markus Pettersen\* _(2022)_, University of Oslo, Norway
 - Mina Frey _(2018)_, University of Oslo, Norway
 
 <!-- ### Research Supervision
@@ -222,7 +222,9 @@ Leading a dynamic research group focusing on bio-inspired AI and computational n
   - Driving national strategy for NeuroAI research
   - Building networks between academic and industry partners
   - Part of core writing group for grant application for national neuroAI research center 
+
 ---
+
 # Professional Service
 
 ## Editorial Roles
